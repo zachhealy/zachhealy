@@ -1,4 +1,11 @@
-Hi 👋 My name is Zach Healy ===========================  Student/Frontend Developer --------------------------  I am a senior at Southeast Missouri State University, studying Computer Science. I've been casually programming since I was a freshman in high school, and started to take it more seriously once I got into college.  * 🖥️  See my portfolio at [my website](http://zjhealy.com) * ✉️  You can contact me at [zachjhealy@gmail.com](mailto:zachjhealy@gmail.com) * 🧠  I'm learning full stack development and working on broadening my programming language pool
+Hi 👋 My name is Zach Healy
+===========================  
+Student/Frontend Developer
+-------------------------- 
+I am a senior at Southeast Missouri State University, studying Computer Science. I've been casually programming since I was a freshman in high school, and started to take it more seriously once I got into college. 
+* 🖥️  See my portfolio at [my website](http://zjhealy.com)
+* ✉️  You can contact me at [zachjhealy@gmail.com](mailto:zachjhealy@gmail.com)
+* 🧠  I'm learning full stack development and working on broadening my programming language pool
 
 ### Skills
 
