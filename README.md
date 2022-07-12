@@ -1,6 +1,6 @@
 Hi 👋 My name is Zach Healy
 ===========================  
-Computer Science Student/Frontend Developer
+Computer Science Student, UI/UX Developer
 -------------------------- 
 I am a senior at Southeast Missouri State University, studying Computer Science. I've been casually programming since I was a freshman in high school, and started to take it more seriously once I got into college. 
 * 🖥️  See my portfolio at [my website](http://zjhealy.com)
