@@ -1,4 +1,4 @@
-Hi 👋 My name is Zach Healy
+Hi, My name is Zach Healy
 ===========================  
 Computer Science Student, UI/UX Developer
 -------------------------- 
