@@ -1,11 +1,11 @@
 Hi, My name is Zach Healy
 ===========================  
-IT Intern, Passionate Developer
+Application Developer @ Hunter Engineering
 -------------------------- 
-An IT Intern at Hunter Engineering Company, working on both techncial support as well as developing on their web application team. 
+Working daily to learn as much as I can through work and projects. 
 * 🖥️  See my portfolio at [my website](http://zjhealy.com)
 * ✉️  You can contact me at [zachjhealy@gmail.com](mailto:zachjhealy@gmail.com)
-* 🧠  I'm learning JavaScript, and the complexity to which it can be used in web development. 
+* 🧠  I'm learning T-SQL, from the book 'T-SQL Fundamentals Fouth Edition' by Itzik Ben-Gan. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
